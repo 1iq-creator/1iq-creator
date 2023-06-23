@@ -11,7 +11,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
       <a href="https://t.me/isamiq" target="_blank">
-      <img src="https://w7.pngwing.com/pngs/47/737/png-transparent-telegram-message-chat-logo-rounded-social-media-icon.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
 
