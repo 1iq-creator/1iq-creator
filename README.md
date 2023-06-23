@@ -1,18 +1,17 @@
 # Привет, меня зовут Никита!
 
----
 
 ### Цель
 
 Молодой и амбициозный разработчик с углубленными знаниями в области разработки backend и желанием работать в качестве Junior Backend Developer. Ищу возможность присоединиться к команде профессионалов, где смогу применить свои навыки и получить ценный опыт для дальнейшего карьерного роста.
 
-### 🤝 Социальные сети:
+### 🤝 Социальные сети
 <div id="badges">  
     <a href="https://vk.com/id102035994" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
       <a href="https://t.me/isamiq" target="_blank">
-      <img src="[https://cdn-icons-png.flaticon.com/512/145/145813.png](https://w7.pngwing.com/pngs/47/737/png-transparent-telegram-message-chat-logo-rounded-social-media-icon.png)https://w7.pngwing.com/pngs/47/737/png-transparent-telegram-message-chat-logo-rounded-social-media-icon.png" width="40" height="40" alt="VK Badge"/>
+      <img src="https://w7.pngwing.com/pngs/47/737/png-transparent-telegram-message-chat-logo-rounded-social-media-icon.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
 
