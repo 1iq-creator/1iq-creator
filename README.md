@@ -29,10 +29,3 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </p>
-
-### 🛠 Работы
-
-- [Бот знакомств](https://github.com/1iq-creator/VKinder)
-- [Дипломный проект на курсе «HTML-вёрстка: с нуля до первого макета»](https://github.com/1iq-creator/noemi)
-- [Магазин электроники](https://github.com/1iq-creator/ElectronicBD)
-- [Сохраниние фото с вк на яндекс диск](https://github.com/1iq-creator/DiskSave)
